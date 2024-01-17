@@ -45,7 +45,7 @@
 ```
 ## Разработчики
 
-- [OneByteForLife](https://github.com/OneByteForLife)
+- [xByte](https://github.com/OneByteForLife](https://github.com/xbytee)
   
 ## Лицензия
 
